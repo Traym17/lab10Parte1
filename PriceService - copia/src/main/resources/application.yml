@@ -1,0 +1,1 @@
+server:  port: 8083  pricing:  plan:    basic: 10    standard: 20    vip: 50
